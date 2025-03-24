@@ -3,8 +3,8 @@
 const BOT_TOKEN = "7853019382:AAHgv6smnU5an-God1bLqFjNnljJLGv-ouI"; // Insert your bot token.
 const BOT_WEBHOOK = "/endpoint"; // Let it be as it is.
 const BOT_SECRET = "prathyoush"; // Insert a powerful secret text.
-const BOT_OWNER = 0064350805; // Insert your telegram account id.
-const BOT_CHANNEL = -10020358474134; // Insert your telegram channel id which the bot is admin in.
+const BOT_OWNER = 770118462; // Insert your telegram account id.
+const BOT_CHANNEL = -1002567468676; // Insert your telegram channel id which the bot is admin in.
 const SIA_NUMBER = 3812; // Insert a random integer number and keep it safe.
 
 // ----------Ohh Bhai Do Not Modify ---------- // 
